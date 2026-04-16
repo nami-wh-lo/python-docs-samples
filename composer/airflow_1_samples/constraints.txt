@@ -95,7 +95,7 @@ colorlog==4.0.2
 configparser==3.5.3
 coverage==5.3
 croniter==0.3.36
-cryptography==3.2.1
+cryptography==46.0.7
 cx-Oracle==8.0.1
 datadog==0.39.0
 decorator==4.4.2
@@ -244,7 +244,7 @@ psutil==5.7.3
 psycopg2-binary==2.8.6
 ptyprocess==0.6.0
 py==1.9.0
-pyOpenSSL==20.0.0
+pyOpenSSL==26.0.0
 #pyarrow==0.17.1
 pyarrow==1.0.0
 pyasn1-modules==0.2.8
